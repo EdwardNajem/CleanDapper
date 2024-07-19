@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Bootcamp\\BackendCourse\\Week3\\CleanDapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA829A7-0FF7-48D4-A284-8ACBD99931C4}|CleanDapper.Infrastructure\\CleanDapper.Infrastructure.csproj|c:\\users\\user\\bootcamp\\backendcourse\\week3\\cleandapper\\cleandapper.infrastructure\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA829A7-0FF7-48D4-A284-8ACBD99931C4}|CleanDapper.Infrastructure\\CleanDapper.Infrastructure.csproj|solutionrelative:cleandapper.infrastructure\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA829A7-0FF7-48D4-A284-8ACBD99931C4}|CleanDapper.Infrastructure\\CleanDapper.Infrastructure.csproj|c:\\users\\user\\bootcamp\\backendcourse\\week3\\cleandapper\\cleandapper.infrastructure\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA829A7-0FF7-48D4-A284-8ACBD99931C4}|CleanDapper.Infrastructure\\CleanDapper.Infrastructure.csproj|solutionrelative:cleandapper.infrastructure\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03562235-59D5-41E1-89B5-7415E638AA14}|CleanDapper.WebApp\\CleanDapper.WebApp.csproj|c:\\users\\user\\bootcamp\\backendcourse\\week3\\cleandapper\\cleandapper.webapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03562235-59D5-41E1-89B5-7415E638AA14}|CleanDapper.WebApp\\CleanDapper.WebApp.csproj|solutionrelative:cleandapper.webapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050433CE-A329-4E1B-B490-4DF4397E968C}|CleanDapper.Application\\CleanDapper.Application.csproj|c:\\users\\user\\bootcamp\\backendcourse\\week3\\cleandapper\\cleandapper.application\\services\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050433CE-A329-4E1B-B490-4DF4397E968C}|CleanDapper.Application\\CleanDapper.Application.csproj|solutionrelative:cleandapper.application\\services\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050433CE-A329-4E1B-B490-4DF4397E968C}|CleanDapper.Application\\CleanDapper.Application.csproj|c:\\users\\user\\bootcamp\\backendcourse\\week3\\cleandapper\\cleandapper.application\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050433CE-A329-4E1B-B490-4DF4397E968C}|CleanDapper.Application\\CleanDapper.Application.csproj|solutionrelative:cleandapper.application\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03562235-59D5-41E1-89B5-7415E638AA14}|CleanDapper.WebApp\\CleanDapper.WebApp.csproj|c:\\users\\user\\bootcamp\\backendcourse\\week3\\cleandapper\\cleandapper.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03562235-59D5-41E1-89B5-7415E638AA14}|CleanDapper.WebApp\\CleanDapper.WebApp.csproj|solutionrelative:cleandapper.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Bootcamp\\BackendCourse\\Week3\\CleanDapper\\CleanDapper.Application\\Services\\IStudentServices.cs",
+              "RelativeDocumentMoniker": "CleanDapper.Application\\Services\\IStudentServices.cs",
+              "ToolTip": "C:\\Users\\User\\Bootcamp\\BackendCourse\\Week3\\CleanDapper\\CleanDapper.Application\\Services\\IStudentServices.cs",
+              "RelativeToolTip": "CleanDapper.Application\\Services\\IStudentServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:02:27.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Bootcamp\\BackendCourse\\Week3\\CleanDapper\\CleanDapper.Application\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "CleanDapper.Application\\Services\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\User\\Bootcamp\\BackendCourse\\Week3\\CleanDapper\\CleanDapper.Application\\Services\\StudentServices.cs",
+              "RelativeToolTip": "CleanDapper.Application\\Services\\StudentServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:02:07.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Bootcamp\\BackendCourse\\Week3\\CleanDapper\\CleanDapper.Infrastructure\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "CleanDapper.Infrastructure\\Repository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Bootcamp\\BackendCourse\\Week3\\CleanDapper\\CleanDapper.Infrastructure\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "CleanDapper.Infrastructure\\Repository\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:01:28.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Bootcamp\\BackendCourse\\Week3\\CleanDapper\\CleanDapper.Infrastructure\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "CleanDapper.Infrastructure\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Bootcamp\\BackendCourse\\Week3\\CleanDapper\\CleanDapper.Infrastructure\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "CleanDapper.Infrastructure\\Repository\\StudentRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:57:03.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Bootcamp\\BackendCourse\\Week3\\CleanDapper\\CleanDapper.WebApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CleanDapper.WebApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\User\\Bootcamp\\BackendCourse\\Week3\\CleanDapper\\CleanDapper.WebApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CleanDapper.WebApp\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:24:07.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Bootcamp\\BackendCourse\\Week3\\CleanDapper\\CleanDapper.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "CleanDapper.WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Bootcamp\\BackendCourse\\Week3\\CleanDapper\\CleanDapper.WebApp\\Program.cs",
+              "RelativeToolTip": "CleanDapper.WebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:08:39.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

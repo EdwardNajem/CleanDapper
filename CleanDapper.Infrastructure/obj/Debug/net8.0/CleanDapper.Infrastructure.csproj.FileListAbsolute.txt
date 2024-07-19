@@ -1,0 +1,15 @@
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\obj\Debug\net8.0\CleanDapper.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\obj\Debug\net8.0\CleanDapper.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\obj\Debug\net8.0\CleanDapper.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\obj\Debug\net8.0\CleanDapper.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\obj\Debug\net8.0\CleanDapper.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\bin\Debug\net8.0\CleanDapper.Infrastructure.deps.json
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\bin\Debug\net8.0\CleanDapper.Infrastructure.dll
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\bin\Debug\net8.0\CleanDapper.Infrastructure.pdb
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\bin\Debug\net8.0\CleanDapper.Domain.dll
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\bin\Debug\net8.0\CleanDapper.Domain.pdb
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\obj\Debug\net8.0\CleanDap.55EA6B3A.Up2Date
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\obj\Debug\net8.0\CleanDapper.Infrastructure.dll
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\obj\Debug\net8.0\refint\CleanDapper.Infrastructure.dll
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\obj\Debug\net8.0\CleanDapper.Infrastructure.pdb
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Infrastructure\obj\Debug\net8.0\ref\CleanDapper.Infrastructure.dll

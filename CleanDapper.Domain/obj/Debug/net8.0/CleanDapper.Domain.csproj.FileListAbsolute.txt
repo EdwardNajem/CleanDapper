@@ -1,0 +1,11 @@
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Domain\obj\Debug\net8.0\CleanDapper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Domain\obj\Debug\net8.0\CleanDapper.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Domain\obj\Debug\net8.0\CleanDapper.Domain.AssemblyInfo.cs
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Domain\obj\Debug\net8.0\CleanDapper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Domain\bin\Debug\net8.0\CleanDapper.Domain.deps.json
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Domain\bin\Debug\net8.0\CleanDapper.Domain.dll
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Domain\bin\Debug\net8.0\CleanDapper.Domain.pdb
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Domain\obj\Debug\net8.0\CleanDapper.Domain.dll
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Domain\obj\Debug\net8.0\refint\CleanDapper.Domain.dll
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Domain\obj\Debug\net8.0\CleanDapper.Domain.pdb
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Domain\obj\Debug\net8.0\ref\CleanDapper.Domain.dll

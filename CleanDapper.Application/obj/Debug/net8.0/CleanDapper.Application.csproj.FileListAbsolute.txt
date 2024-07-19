@@ -1,0 +1,17 @@
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\obj\Debug\net8.0\CleanDapper.Application.csproj.AssemblyReference.cache
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\obj\Debug\net8.0\CleanDapper.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\obj\Debug\net8.0\CleanDapper.Application.AssemblyInfoInputs.cache
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\obj\Debug\net8.0\CleanDapper.Application.AssemblyInfo.cs
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\obj\Debug\net8.0\CleanDapper.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\bin\Debug\net8.0\CleanDapper.Application.deps.json
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\bin\Debug\net8.0\CleanDapper.Application.dll
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\bin\Debug\net8.0\CleanDapper.Application.pdb
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\bin\Debug\net8.0\CleanDapper.Domain.dll
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\bin\Debug\net8.0\CleanDapper.Infrastructure.dll
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\bin\Debug\net8.0\CleanDapper.Domain.pdb
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\bin\Debug\net8.0\CleanDapper.Infrastructure.pdb
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\obj\Debug\net8.0\CleanDap.57E27934.Up2Date
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\obj\Debug\net8.0\CleanDapper.Application.dll
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\obj\Debug\net8.0\refint\CleanDapper.Application.dll
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\obj\Debug\net8.0\CleanDapper.Application.pdb
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.Application\obj\Debug\net8.0\ref\CleanDapper.Application.dll
