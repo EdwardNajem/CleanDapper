@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanDapper.WebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c30aa54d4b50ffad2d913a455bba29e63341c6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanDapper.WebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanDapper.WebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

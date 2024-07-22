@@ -37,3 +37,4 @@ C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.WebApp\obj\De
 C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.WebApp\obj\Debug\net8.0\CleanDapper.WebApp.pdb
 C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.WebApp\obj\Debug\net8.0\CleanDapper.WebApp.genruntimeconfig.cache
 C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.WebApp\obj\Debug\net8.0\ref\CleanDapper.WebApp.dll
+C:\Users\User\Bootcamp\BackendCourse\Week3\CleanDapper\CleanDapper.WebApp\obj\Debug\net8.0\CleanDapper.WebApp.sourcelink.json
